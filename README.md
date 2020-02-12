@@ -1,4 +1,4 @@
-# lab1-processlist-sblair3
-lab1-processlist-sblair3 created by GitHub Classroom
-Samuel Blair
+# lab1-processlist
+lab1-processlist created by GitHub Classroom
+
 COSC 2030
